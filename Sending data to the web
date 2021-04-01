@@ -1,6 +1,11 @@
+// Sending data to the web
+
 int soilSensor = 0;
+
 int redLed = D4;
+
 int greenLed = D5;
+
 int led = D8;
 
 void setup() 
